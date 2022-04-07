@@ -1,6 +1,6 @@
 **Capsule** is a minimal vanilla CSS framework capable of building consistent and reliable user experiences. With 34kb of size, Capsule is a median between light and heavy frameworks. It is essentially based on encapsulation, self-reliance and minimalism notions. [Read more](https://github.com/Amine-Belkacem/Capsule.css/wiki)
 
-![GitHub tag (latest by date)](https://img.shields.io/github/tag-date/Appforge-lab/css-vise.svg) ![GitHub file size in bytes](https://img.shields.io/github/size/Appforge-lab/CSS-Vise/css/vise.min.css.svg)
+![GitHub tag (latest by date)](https://img.shields.io/github/tag-date/Appforge-lab/css-vise.svg) 
  [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Appforge-lab/CSS-Vise/blob/master/License)
 
 ## Quick demos

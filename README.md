@@ -29,7 +29,8 @@ More examples in the [wiki](https://github.com/Appforge-lab/CSS-Vise/wiki).
 Clone repository.
 
     git clone https://github.com/Appforge-lab/css-vise.git
-
+    
+Explore the example in `./demo`
 
 ## Why Capsule ?
 

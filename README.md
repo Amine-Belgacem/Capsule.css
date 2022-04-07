@@ -43,7 +43,7 @@ With all frameworks there is what's special about Capsule ?
 - Capsule operates an efficient mobile-first grid system.
 - Capsule can be used alongside any other styling structure with no interference issues. 
 
-## Introduction to capsule's Approach
+## Introduction to capsule's approach
 
 Capsule is not the usual CSS framework that is focused on only making styling a faster proccess, but also forged with the following notions in mind:
 

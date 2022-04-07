@@ -66,7 +66,3 @@ Capsule is not the usual CSS framework that is focused on only making styling a 
 - [Grid](http://cssdeck.com/labs/salyee3a)
 
 For more check the [wiki](https://github.com/Appforge-lab/CSS-Vise/wiki).
-
-## License
-
-Designed by **appforge** Licensed under the [MIT License](https://github.com/Appforge-lab/css-vise/blob/master/License).

@@ -4,9 +4,9 @@ Capsule.css is a lightweight, minimal CSS framework designed to help you build c
 
 It is built around three core ideas:
 
-- **Encapsulation** — it stays self-contained and can be used alongside other frameworks without conflicting badly.
-- **Self-reliance** — it includes the essentials needed to build usable layouts and components out of the box.
-- **Minimalism** — it stays small, simple, and easy to understand.
+- **Encapsulation** — it remains self-contained and can be used alongside other frameworks without causing conflicts.
+- **Self-reliance** — it includes the essentials needed to build usable layouts and components right away.
+- **Minimalism** — it stays lightweight, simple, and easy to work with.
 
 ## What Capsule is intended for
 
@@ -65,12 +65,6 @@ You can open it locally to see the framework in action.
 - [dist/](dist/) — built CSS files
 - [demo/](demo/) — example page and assets
 - [package.json](package.json) — package metadata
-
-## Learn more
-
-For more examples and deeper documentation, visit the project wiki:
-
-- https://github.com/Amine-Belkacem/Capsule.css/wiki
 
 ## License
 

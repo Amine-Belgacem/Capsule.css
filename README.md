@@ -1,23 +1,23 @@
 # Capsule.css
 
-Capsule.css is a lightweight, minimal CSS framework designed to help you build clean, responsive, and reliable web interfaces without the overhead of larger UI libraries.
+Capsule.css is a lightweight, minimal CSS framework for building clean, responsive, and reliable web interfaces without the overhead of larger UI libraries.
 
-It is built around three core ideas:
+It is designed for developers who want a small but dependable foundation for websites, prototypes, and simple production projects. Capsule.css focuses on three core principles:
 
 - **Encapsulation** — it remains self-contained and can be used alongside other frameworks without causing conflicts.
 - **Self-reliance** — it includes the essentials needed to build usable layouts and components right away.
 - **Minimalism** — it stays lightweight, simple, and easy to work with.
 
-## What Capsule is intended for
+## Why choose Capsule.css?
 
-Capsule.css is intended for developers who want:
+Capsule.css is a practical choice when you want:
 
-- a lightweight alternative to heavy front-end frameworks
+- a lightweight alternative to heavier front-end frameworks
 - a simple responsive grid system
-- ready-to-use utility-style helpers and basic component styling
+- ready-to-use layout helpers and basic component styling
 - a clean starting point for small to medium web projects
 
-It is not meant to replace every feature of large frameworks, but to provide a practical foundation for fast and consistent UI development.
+It is not meant to replace every feature of large frameworks, but to provide a solid and efficient foundation for fast UI development.
 
 ## Features
 
@@ -35,7 +35,7 @@ Include the stylesheet in your project:
 <link rel="stylesheet" href="./dist/capsule.min.b0.2.css" />
 ```
 
-Then create a layout using the Capsule structure:
+Then build a layout using the Capsule structure:
 
 ```html
 <div class="capsule">
@@ -58,13 +58,19 @@ A demo page is included in the repository:
 
 - [demo/index.html](demo/index.html)
 
-You can open it locally to see the framework in action.
+Open it locally to see the framework in action.
 
 ## Project structure
 
 - [dist/](dist/) — built CSS files
 - [demo/](demo/) — example page and assets
 - [package.json](package.json) — package metadata
+
+## Learn more
+
+For additional examples and deeper documentation, visit the project wiki:
+
+- https://github.com/Amine-Belkacem/Capsule.css/wiki
 
 ## License
 

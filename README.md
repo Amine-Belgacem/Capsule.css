@@ -66,12 +66,6 @@ Open it locally to see the framework in action.
 - [demo/](demo/) — example page and assets
 - [package.json](package.json) — package metadata
 
-## Learn more
-
-For additional examples and deeper documentation, visit the project wiki:
-
-- https://github.com/Amine-Belkacem/Capsule.css/wiki
-
 ## License
 
 This project is licensed under the MIT License.

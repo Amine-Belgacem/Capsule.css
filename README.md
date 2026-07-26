@@ -4,9 +4,9 @@ Capsule.css is a lightweight, minimal CSS framework for building clean, responsi
 
 It is designed for developers who want a small but dependable foundation for websites, prototypes, and simple production projects. Capsule.css focuses on three core principles:
 
-- **Encapsulation** — it remains self-contained and can be used alongside other frameworks without causing conflicts.
-- **Self-reliance** — it includes the essentials needed to build usable layouts and components right away.
-- **Minimalism** — it stays lightweight, simple, and easy to work with.
+- **Encapsulation**: it remains self-contained and can be used alongside other frameworks without causing conflicts.
+- **Self-reliance**: it includes the essentials needed to build usable layouts and components right away.
+- **Minimalism**: it stays lightweight, simple, and easy to work with.
 
 ## Why choose Capsule.css?
 

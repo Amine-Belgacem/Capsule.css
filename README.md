@@ -1,63 +1,77 @@
-Capsule is a minimal CSS framework capable of building consistent and reliable user experiences. With under 50kb of size, Capsule is a median between light and heavy frameworks. It is essentially based on encapsulation, self-reliance and minimalism.
-[Read more...](https://github.com/Amine-Belkacem/Capsule.css/wiki)
+# Capsule.css
 
-![GitHub tag (latest by date)](https://img.shields.io/github/tag-date/Appforge-lab/css-vise.svg) 
- [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Appforge-lab/CSS-Vise/blob/master/License)
+Capsule.css is a lightweight, minimal CSS framework designed to help you build clean, responsive, and reliable web interfaces without the overhead of larger UI libraries.
 
-## Quick demos
+It is built around three core ideas:
 
-For a quick showcase checkout the demo in `./example`
+- **Encapsulation** — it stays self-contained and can be used alongside other frameworks without conflicting badly.
+- **Self-reliance** — it includes the essentials needed to build usable layouts and components out of the box.
+- **Minimalism** — it stays small, simple, and easy to understand.
 
-A basic responsive layout code in Capsule:
-  
+## What Capsule is intended for
+
+Capsule.css is intended for developers who want:
+
+- a lightweight alternative to heavy front-end frameworks
+- a simple responsive grid system
+- ready-to-use utility-style helpers and basic component styling
+- a clean starting point for small to medium web projects
+
+It is not meant to replace every feature of large frameworks, but to provide a practical foundation for fast and consistent UI development.
+
+## Features
+
+- Small footprint
+- Responsive layout helpers
+- Mobile-first grid behavior
+- Basic styled HTML elements
+- Minimal setup and low complexity
+
+## Quick start
+
+Include the stylesheet in your project:
+
+```html
+<link rel="stylesheet" href="./dist/capsule.min.b0.2.css" />
+```
+
+Then create a layout using the Capsule structure:
+
 ```html
 <div class="capsule">
-    <div class="row gap:8 padding:5 adapt-medium:switch">		
-        <div class="box:6"><img class="width:max" src="img/youtube_tutorial.svg"></div>
-        <div class="col:9 gap:2 align:middle">
-          <h5>Lorem ipsum dolor sit amet</h5>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit...</p>
-          <a href="" class="button width:third adapt-medium:stretch">Action 1</a>
-        </div>	
-    </div>	
-</div>	
+  <div class="row gap:8 padding:5 adapt-medium:switch">
+    <div class="box:6">
+      <img class="width:max" src="./demo/img/youtube_tutorial.svg" alt="Example" />
+    </div>
+    <div class="col:9 gap:2 align:middle">
+      <h5>Build fast with Capsule</h5>
+      <p>A lightweight foundation for modern, responsive interfaces.</p>
+      <a href="#" class="button width:third adapt-medium:stretch">Learn more</a>
+    </div>
+  </div>
+</div>
 ```
-  
-More examples [here](https://github.com/Amine-Belkacem/Capsule.css/wiki).
 
-## Get started
+## Demo
 
-Clone repository.
+A demo page is included in the repository:
 
-    git clone https://github.com/Amine-Belkacem/Capsule.css.git
-       
-Explore the example in `./demo`
+- [demo/index.html](demo/index.html)
 
-Check the [wiki](https://github.com/Amine-Belkacem/Capsule.css/wiki) for a detailed walkthrough.
+You can open it locally to see the framework in action.
 
-## Why capsule ?
+## Project structure
 
-With all frameworks there is what's special about Capsule ?
-.
-- Capsule is lightweight yet not naked neither overloaded.
-- Capsule operates an efficient mobile-first grid system.
-- Capsule can be used alongside any other styling structure with no interference issues. 
+- [dist/](dist/) — built CSS files
+- [demo/](demo/) — example page and assets
+- [package.json](package.json) — package metadata
 
-## Introduction to capsule's approach
+## Learn more
 
-Capsule is not the usual CSS framework that is focused on only making styling a faster proccess, but also forged with the following notions in mind:
+For more examples and deeper documentation, visit the project wiki:
 
-- **Encapsulation**
+- https://github.com/Amine-Belkacem/Capsule.css/wiki
 
-  Capsule is self-enclosed, it doesn't get affected by previously loaded frameworks on the same HTML document. Thus it can be used alongside any other framework (Bootstrap, Foundation, Bulma, etc).
+## License
 
-- **Self-reliance**
-
-  Packed with the basic features, Capsule is functional out-of-the-box. With styled HTML elements, helper classes and a smart grid system, Capsule is a complete framework that can build simple and complex web contents.
-
-- **Minimalism**
-
-  Capsule is meant to be minimal while offering necessary facilities to build a consistent user experience.
-  
-
-Read more on the [wiki](https://github.com/Amine-Belkacem/Capsule.css/wiki).
+This project is licensed under the MIT License.
